@@ -8,4 +8,4 @@ select aircraft_mtow
 from aircraft_mtow
 union all
 select *
-from aircraft_reg
+from aircraft_regist
