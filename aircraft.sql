@@ -5,4 +5,7 @@ select *
 from aircraft_type
 union
 select *
-from aircraft_base
+from aircraft_mtow
+union all
+select *
+from aircraft_reg
