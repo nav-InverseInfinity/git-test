@@ -2,13 +2,13 @@
 <html>
 <body>
 
-<h2>My First JavaScript</h2>
+<h2>My second JavaScript</h2>
 
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
+Click here to display Date and Time.</button>
 
-<p id="demo"></p>
+<p id="demo1"></p>
 
 </body>
 </html> 
