@@ -4,8 +4,8 @@ union all
 select *
 from aircraft_type
 union
-select aircraft_mtow
-from aircraft_mtow
+select aircraft_mtw
+from aircraft_mtw
 union all
 select *
 from aircraft_regist
