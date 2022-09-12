@@ -3,7 +3,7 @@ from aircraft
 union all
 select *
 from aircraft_type
-union all
+union
 select *
 from aircraft_mtow
 union all
