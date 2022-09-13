@@ -9,3 +9,6 @@ from aircraft_mtw
 union all
 select *
 from aircraft_regist
+union all 
+select git_test
+from git
