@@ -10,5 +10,5 @@ union all
 select *
 from aircraft_regist
 union all 
-select *
+select git_test
 from git
