@@ -1,7 +1,7 @@
 select *
 from aircraft
 union all
-select *
+select aircraft_type
 from aircraft_type
 union
 select aircraft_mtw
